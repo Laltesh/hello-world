@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+ <tittle> hello world!</title>
+<link rel="stylesheet" href="bluestyle.css">
+ 
+</head>
+<body>
+<h1>INTRODUCTION</h1>
+<p> my name is Laltesh shan. i am puring bachlore of technology in ece fron bv.</p>
+<p> A first line</p>
+</body>
+</html>
